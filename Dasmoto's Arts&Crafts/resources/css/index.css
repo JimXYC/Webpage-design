@@ -1,0 +1,36 @@
+h1 {
+    font-size: 100px;
+    color: khaki;
+    text-align: center;
+    background-image: url("../image/image1.jpg");
+}
+
+h2 {
+    font-size: 32px;
+    color: white;
+    text-align: left;
+}
+
+strong {
+    color: blue;
+}
+
+h1,
+h2,
+h3,
+strong {
+    font-weight: bold; 
+    font-family: Helvetica;
+}
+
+#brushes {
+    background-color: mediumspringgreen;
+}
+
+#frames {
+    background-color: lightcoral;
+}
+
+#paint {
+    background-color: skyblue;
+}
